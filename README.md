@@ -11,7 +11,7 @@ Id的组成如下：
  >* 5 用户Id埋点 4位 (userId: 23423423454) 2345 交易场景下根据userId查询较多,方便分表
 
 ##性能
-CPU： 2.5 GHz Intel Core i5
-内存： 8 GB 1600 MHz DDR3
-单线程：每秒20W-40W
-128线程：每秒5W-10W
+>* CPU： 2.5 GHz Intel Core i5
+>* 内存： 8 GB 1600 MHz DDR3
+>* 单线程：每秒20W-40W
+>* 128线程：每秒5W-10W
